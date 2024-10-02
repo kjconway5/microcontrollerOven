@@ -1,5 +1,5 @@
 Kye Conway 
-Kyejconway5@gmail.com
+kyejconway5@gmail.com
 ECE-13, Fall 2023
 
 Summary: 
