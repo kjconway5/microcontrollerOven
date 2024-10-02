@@ -16,8 +16,8 @@ Summary:
   setup mode was also implemented. For extra credit, I implemented the ability for the OLED to alternate between an 
   inverted and a non-inverted state after the timer has run out while in the cooking mode. The key concepts used in 
   this lab were **C programming**, **event driven programming**, **finite state machines**, reading the prvided finite 
-  state machine diagrams, and using interrupts to utilize our finite state machine to start certain processes. 
+  state machine diagrams, and using interrupts to utilize our finite state machine to start certain processes. For this 
+  lab I worked on the Lab07_main.c file, all other files were provided to me by my intructor. 
 
 
 Example Video: [https://drive.google.com/file/d/1ExnI1JbU4NZyMG4CQCu1borJtuADqtFk/view?usp=sharing]
-
